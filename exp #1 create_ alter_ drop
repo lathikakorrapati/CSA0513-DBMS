@@ -58,9 +58,9 @@ mysql> select*from faculty1;
 +-------+-----------+---------+--------+
 | facid | facname   | facdept | salary |
 +-------+-----------+---------+--------+
-|     1 | lathika   | CSE     |  12000 |
-|     2 | anjali    | CSE     |  10000 |
-|     3 | neshitha  | IT      |  11000 |
-|     4 | chandra   | AIDS    |  13000 |
+|     1 | neha      | CSE     |  12000 |
+|     2 | nikitha   | CSE     |  10000 |
+|     3 | thanuja   | IT      |  11000 |
+|     4 | praneetha | AIDS    |  13000 |
 +-------+-----------+---------+--------+
 4 rows in set (0.00 sec)
